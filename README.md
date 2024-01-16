@@ -16,6 +16,15 @@ This Python program features a graphical user interface (GUI) allowing users to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/finger-controlled-volume.git
+   git clone https://github.com/your-username/finger-controlled-volume.git```
 
-pip install numpy opencv-python comtypes ctypes mediapipe pycaw
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+### Run the program
+```bash
+python main.py
+```
