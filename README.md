@@ -1,4 +1,3 @@
-
 # GUI Finger-Controlled Volume Updater
 
 ## Description
@@ -28,3 +27,6 @@ This Python program features a graphical user interface (GUI) allowing users to 
 ```bash
 python main.py
 ```
+
+## License 
+This project is licensed under the MPL-2 - see the LICENSE file for details.
