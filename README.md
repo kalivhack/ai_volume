@@ -8,7 +8,7 @@ This Python program features a graphical user interface (GUI) allowing users to 
 - Adjustable sensitivity settings for gesture recognition.
 
 ## Requirements
-- Python [version]
+- Python 3.11.7 or earlier.
 - [List any additional libraries or hardware requirements]
 
 ## Installation
