@@ -1,4 +1,4 @@
-# GUI Finger-Controlled Volume Updater
+# MagicVol: The Magical Way to Adjust Your Volume with Finger Gestures
 ## Description
 This Python program features a graphical user interface (GUI) allowing users to update the system volume through finger gestures detected from a distance.
 
